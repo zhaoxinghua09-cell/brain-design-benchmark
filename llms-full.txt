@@ -1,0 +1,51 @@
+# brain-design-benchmark — 完整文本
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取本仓库的完整说明。
+
+## 这是什么
+
+`brain-design-benchmark` 是一个 **Agent Skill 发布包**（research 类），把「评估任何类人 AI 大脑设计」的方法固化成可被 AI Agent 直接加载的技能。由 SynomosAI 出品，署名诺衡(Krites)@SynomosAI。
+
+一句话：把你的 AI 大脑设计当作一个统一智能体，与真实人脑、脑科学既有证据、2026 前沿 AI 架构做三向对标，输出诚实结论、差距三档分诊与改善路线图。
+
+## 解决什么问题
+
+1. 想知道「我这套 AI 大脑设计到底行不行」。
+2. 想知道「跟真人脑差在哪」。
+3. 想知道「跟 2026 前沿架构比落后多少」。
+4. 需要一个诚实、可核验、不用绝对词的评估口径。
+
+## 方法：真实参照法（Grounded Reference Method）
+
+- 每条判断挂得出外部参照（神经科学证据 / 公开前沿架构）；无来源不主张。
+- 禁用「最 / 全球首创」等不可证伪的绝对词。
+- 三极对标：我们的设计 / 真实人脑 / 前沿 AI（2026 产品·框架），12 维度各打 1–10 分。
+
+## 12 个维度
+
+记忆分层与持久化 · 主动执行 · 工具/环境交互 · 角色/自我一致 · 反思自省（元认知）· 规划推理（System 2）· 遗忘巩固（类睡眠）· 持续进化（终身学习）· 安全治理/可控 · 评测标准化 · 能效/规模可扩 · 具身/感知/意识。
+
+参考数据文件 `references/维度与对标.md` 给出一套示例均值：我们 ≈ 6.75 ｜ 真实人脑 ≈ 8.9 ｜ 前沿 AI ≈ 8.1。
+
+## 快速开始
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/brain-design-benchmark.git
+cd brain-design-benchmark
+# cp -r . ~/.workbuddy/skills/brain-design-benchmark/
+cat SKILL.md
+```
+
+然后用自然语言发起评估，如「帮我评估这套多智能体组织到底行不行」。
+
+## 触发词
+
+AI 大脑设计评估 / 类人架构对标 / 多智能体组织评估 / 差距三档分诊 / 我的架构行不行 / brain design benchmark / architecture review / cognitive architecture / neuroscience benchmark。
+
+## 许可与权利
+
+MIT 许可（见 LICENSE.md），Copyright (c) 2026 SynomosAI。权利人「赵兴华 / Steven Zhao·China」。MedXpert、SynomosAI、LGD 等为项目标识，均未申请实体注册、未申请商标注册。联系：zhaoxinghua06@126.com ｜ ORCID 0009-0001-0512-1237。本技能为通用方法论工具，非医疗器械 / 非医疗软件，无疗效或临床声明。
+
+## 链接
+
+- 仓库: https://github.com/zhaoxinghua09-cell/brain-design-benchmark

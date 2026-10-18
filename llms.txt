@@ -1,0 +1,21 @@
+# brain-design-benchmark
+
+> 评估任何「类人 AI 大脑设计」的 Agent Skill：把你的 AI 大脑设计当作一个统一智能体，与真实人脑、脑科学证据、2026 前沿 AI 架构做三向对标，输出诚实结论、差距三档分诊与改善路线图。研究向（research）方法论工具，非医疗。
+
+`brain-design-benchmark` 遵循 Agent Skills 规范（SKILL.md 带 YAML frontmatter），支持中/英/日/韩/西/法/德/阿 8 种语言。核心方法为「真实参照法」——每条判断挂外部参照，无来源不主张，禁用绝对词。
+
+## 核心
+
+- [SKILL.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/SKILL.md): 技能主文件（frontmatter + 多语种/治理/免责正文）
+- [manifest.json](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/manifest.json): 技能元数据（名称/版本/许可/描述）
+- [references/维度与对标.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/references/%E7%BB%B4%E5%BA%A6%E4%B8%8E%E5%AF%B9%E6%A0%87.md): 12 维度对标明细 + 神经科学/前沿 AI 参照
+- [README.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/README.md): 项目说明与快速开始
+
+## 可选
+
+- [README.en.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/README.en.md): 英文版
+- [AGENTS.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/AGENTS.md): 给 AI Agent 的工作指引
+- [llms-full.txt](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/llms-full.txt): 完整文本
+- [SECURITY.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/SECURITY.md): 安全策略
+- [CONTRIBUTING.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/CONTRIBUTING.md): 贡献指南
+- [LICENSE.md](https://github.com/zhaoxinghua09-cell/brain-design-benchmark/blob/main/LICENSE.md): MIT 许可
